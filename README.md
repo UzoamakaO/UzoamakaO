@@ -40,5 +40,3 @@ I'm continuously improving my analytical skills by exploring advanced SQL, Pytho
 ###  Let's Connect
 
 I'm always open to collaborating on data projects, contributing to open-source initiatives, and connecting with fellow data professionals. Feel free to explore my repositories, share feedback, or reach out if you'd like to collaborate.
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
