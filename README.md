@@ -1,6 +1,6 @@
 # Hi there, I'm Uzoamaka 
 
-I'm a Data Analyst passionate about transforming raw data into meaningful insights that drive informed business decisions. I enjoy working with data throughout its lifecycle—from cleaning and exploration to analysis, visualization, and reporting. My goal is to uncover trends, solve business problems, and communicate findings in a way that is both clear and actionable.
+I'm a Data Analyst passionate about transforming raw data into meaningful insights that drive informed business decisions. I enjoy working with data throughout its lifecycle from cleaning and exploration to analysis, visualization, and reporting. My goal is to uncover trends, solve business problems, and communicate findings in a way that is both clear and actionable.
 
 ###  What I Do
 
